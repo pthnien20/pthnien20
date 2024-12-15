@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--
-**pthnien20/pthnien20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Welcome to My GitHub Profile!
 
 ## 👋 Hello, I'm Huu Nien!
@@ -28,19 +25,10 @@
   - Other Tools: Git, CMake, GDB, Valgrind.
   - Systems: Proficient in Linux and Windows development environments.
 ---
----
 
 ### 🌐 Find Me Online
 - **Email**: phanthihuunien@gmail.com
 
----
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide=issues&hide_title=true&count_private=true&include_all_commits=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=10&theme=radical)
-
----
 
 ### ✨ Fun Fact
 
@@ -50,7 +38,3 @@ I enjoy exploring the intricacies of system programming and am a huge fan of ret
 
 Feel free to explore my repositories and get in touch for any questions, collaborations, or just a friendly chat! 😊
 
-
-
-
--->
